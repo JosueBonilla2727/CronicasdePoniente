@@ -185,7 +185,7 @@ class Cronica{
 					if (siguiente->GetNombre() == election) nA = siguiente;
 					});
 
-				ventana2->clear();
+				ventana2->clear(); 
 			}
 
 			system("cls");
